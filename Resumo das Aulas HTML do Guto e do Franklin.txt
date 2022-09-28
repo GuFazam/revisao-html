@@ -1,0 +1,19 @@
+Aulas do Guto e do Franklin
+*editores de códigos: visual studio code, sublimetext, brackets, Atom, notepad++;
+*Configurações: extenções para o editor de código;
+*Principais comandos de HTML;
+*Grupos de comandos: Estrutura básica, construção de textos e parágrafos, tabelas, títulos, listas, imagens, links, formularios, tags, video e som, etc...;
+*Como Criar Listas;
+*Como colocar videos e audios;
+*como colocar links;
+*como fazer tabelas;
+*Como fazer uma página na web com HTML;
+*como fazer um Currículo em HTML;
+*significado de html: linguage de marcação de hiper texto;
+*como colocar imagens;
+*tags para formatar a tabela, imagens, videos e sons;
+*tags de alinhamento de tabela;
+*importância do GitHub;
+*o que é dominio e subdominio;
+*sites de hospedagem: hostgator, hostinger, locaweb.
+
